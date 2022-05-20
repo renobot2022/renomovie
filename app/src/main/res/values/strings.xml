@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="developed_info">This app was developed by:</string>
+    <string name="wasim">Wasim G Aswad</string>
+    <string name="developed_name">A student in the second-year of Mobile Communications and Security at University of Limerick.</string>
+    <string name="director"> Director </string>
+    <string name="Email" translatable="false">mailto:17193559@studentmail.ul.ie</string>
+    <string name="year"> Year </string>
+    <string name="genre"> Genre </string>
+    <string name="hollywood">Once upon a time in hollywood</string>
+    <string name="trailer">trailer</string>
+    <string name="details">details</string>
+    <string name="thumb" translatable="false">thumb</string>
+    <string name="_10" translatable="false">/10</string>
+    <string name="auto_msg">Press the button below or after 1 minute you will be taken to the main interface.</string>
+    <string name="Enter">Enter the App</string>
+    <string name="mov1917story"> April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap. </string>
+    <string name="avatarstory"> A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. </string>
+    <string name="jokerstory"> In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker. </string>
+    <string name="hollywoodstory"> A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood\'s Golden Age in 1969 Los Angeles. </string>
+    <string name="irishmanstory"> A mob hitman recalls his friend Jimmy Hoffa. </string>
+    <string name="dictatorstory"> The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.. </string>
+    <string name="gentlemenstory"> An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him. </string>
+    <string name="parasitestory"> Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan. </string>
+    <string name="FordVFerraristory"> American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966. </string>
+    <string name="Inceptionstory"> A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. </string>
+    <string name="matrixstory"> A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers. </string>
+    <string name="story">"This program is still under development.\nThe list of films will be updated and new ones added to accommodate most international films.\n\nIf you have any suggestions or inquiries, please contact us at 17193559@studentmail.ul.ie. "</string>
+    <string name="Awards">Awards</string>
+    <string name="storyname">\t Synopsis</string>
+    <string name="test" translatable="false">\t </string>
+    <string name="awards1917">Oscar: Best Achievement in Cinematography, Best Achievement in Visual Effects and Best Achievement in Sound Mixing.\nGolden Globe: Best Motion Picture - Drama and Best Director - Motion Picture.</string>
+    <string name="awardsavatar">Oscar: Best Achievement in Cinematography, Best Achievement in Visual Effects and Best Achievement in Art Direction.\nGolden Globe: Best Director - Motion Picture and Best Motion Picture - Drama.</string>
+    <string name="awardsFvF">Oscar: Best Achievement in Film Editing and Best Achievement in Sound Editing.</string>
+    <string name="awardsIncetion">Oscar: Best Achievement in Cinematography, Best Achievement in Sound Mixing, Best Achievement in Sound Editing and Best Achievement in Visual Effects.</string>
+    <string name="awardsjoker">Oscar: Best Performance by an Actor in a Leading Role and Best Achievement in Music Written for Motion Pictures (Original Score)\nGolden Globe: Best Performance by an Actor in a Motion Picture - Drama and Best Original Score - Motion Picture.</string>
+    <string name="awardshollywood">Oscar: Best Performance by an Actor in a Supporting Role and Best Achievement in Production Design\nGolden Globe: Best Motion Picture - Musical or Comedy, Best Performance by an Actor in a Supporting Role in a Motion Picture and Best Screenplay - Motion Picture.</string>
+    <string name="awardsparasite">Oscar: Best Motion Picture of the Year, Best Achievement in Directing, Best Original Screenplay and Best International Feature Film.\nGolden Globe: Best Motion Picture - Foreign Language.</string>
+    <string name="awardsgentleman">Oscar: \nGolden Globe:</string>
+    <string name="awardsIrish">Oscar: \nGolden Globe:</string>
+    <string name="awardsmatrix">Oscar: Best Film Editing, Best Sound, Best Effects, Sound Effects Editing and Best Effects, Visual Effects.</string>
+    <string name="search">Search</string>
+    <string name="awardsdictator">Oscar: \nGolden Globe:</string>
+    <string name="e_mail">E-MAIL ME</string>
+
+
+</resources>
