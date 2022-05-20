@@ -1,0 +1,4 @@
+#Thu May 14 11:16:13 BST 2020
+base.0=C\:\\Users\\Wasim\\Desktop\\test\\android\\friday 06-03-2020\\movies\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
